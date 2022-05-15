@@ -3,8 +3,6 @@ board:
 	O O O
 	X X X
 
-lastPos: minus 3
-
 tape:
 	static mem: minus 1 | 0
 	null byte           | 1
